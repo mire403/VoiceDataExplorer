@@ -1,0 +1,25 @@
+# VoiceDataExplorer — Voice-First Data Explorer
+# Python 3.10+
+
+# Speech layer
+openai-whisper>=20231117
+whisperx>=3.1.0
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Audio I/O
+soundfile>=0.12.1
+librosa>=0.10.0
+
+# LLM for extraction (classification + extraction only)
+openai>=1.0.0
+
+# Data & graph
+networkx>=3.0
+pydantic>=2.0
+
+# Output
+jinja2>=3.1.0
+
+# CLI & config
+python-dotenv>=1.0.0
