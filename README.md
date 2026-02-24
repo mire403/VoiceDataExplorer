@@ -472,7 +472,7 @@ python app.py --audio path/to/meeting.wav --use-whisperx --device cuda
 
 **如果这个项目对你有帮助，请给个 ⭐ Star！**
 
-<sub>Made by Haoze Zheng. 2026 HowMuchLLM.</sub>
+<sub>Made by Haoze Zheng. 2026 VoiceDataExplorer.</sub>
 
 </div>
 
