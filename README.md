@@ -1,4 +1,8 @@
-# 🎙️ VoiceDataExplorer — 语音数据智能挖掘
+<div align="center">
+
+# VoiceDataExplorer — 语音数据智能挖掘
+
+</div>
 
 <p align="center">
   <strong>🔊 不是转写工具 · 是语音原生的决策级数据系统</strong>
