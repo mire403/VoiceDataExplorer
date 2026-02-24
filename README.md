@@ -458,6 +458,21 @@ python app.py --audio path/to/meeting.wav --use-whisperx --device cuda
 
 ---
 
-<p align="center">
-  <strong>🎯 VoiceDataExplorer — 把语音变成可追问的决策资产</strong>
-</p>
+## 👤 作者 (Author)
+
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
+
+---
+
+<div align="center">
+
+**如果这个项目对你有帮助，请给个 ⭐ Star！**
+
+<sub>Made by Haoze Zheng. 2026 HowMuchLLM.</sub>
+
+</div>
+
